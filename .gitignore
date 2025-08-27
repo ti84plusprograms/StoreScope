@@ -4,3 +4,4 @@
 .env
 temporal-ring-451800-g4-c96565bd1d32.json
 street_view_image.jpg
+__pycache__/
